@@ -5,4 +5,4 @@ mountpoints:
 
 folders:
   /products/: /products/default
-  /valves/: /categories/default
+  /valves: /categories/default
