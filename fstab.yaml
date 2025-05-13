@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/snez/eds-boilerplate/
+    type: markup
+
+folders:
+  /products/: /products/default
